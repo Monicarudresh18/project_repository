@@ -1,0 +1,10 @@
+h1{
+	background-color:red;
+	font-size: 30px;
+	color:blue;
+}
+body{
+	background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT30nEx64w7RKAPo9013f9RpkVV6Ugysb3SOw&usqp=CAU');
+	background-repeat: no-repeat;
+	background-size:800px 800px;
+}

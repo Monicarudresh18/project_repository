@@ -1,0 +1,9 @@
+body{
+	background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRrI82zOB3OQKLAOGqgl3AyKrKtY-zPVtnZDg&usqp=CAU');
+	background-size: 1000px 600px;
+	background-repeat: no-repeat;
+}
+marquee{
+	color:green;
+	background-color:yellow; 
+}
